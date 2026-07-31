@@ -1,0 +1,12 @@
+h1{
+    background-color: rgb(97, 102, 175);
+}
+body{
+    background-color: azure;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: justify;
+    text-align: left;
+}
